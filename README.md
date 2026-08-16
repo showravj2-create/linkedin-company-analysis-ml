@@ -166,7 +166,7 @@ Then open the notebook and update `DATA_PATH` if the dataset is stored in a diff
 
 ## Author
 
-**Saurabh Das**
+**Showrav Das**
 
 BSc in Mathematics | Python | Machine Learning | Data Analysis
 
